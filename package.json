@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot-agokulram1-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/discord-bot-agokulram1.git"
+  },
+  "keywords": [],
+  "author": "Gokul Ram <aramgokul@gmail.com> (https://github.com/agokulram1)",
+  "license": "RVCC",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/discord-bot-agokulram1/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/discord-bot-agokulram1#readme",
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
